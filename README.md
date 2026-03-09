@@ -53,3 +53,5 @@
 ❄️ ```Except from what I have listed above, I am usually fine with anything that people talk about. But the best is to not talk about a lot of politics (especially when you have an extreme opinion in some cases) OR anything that is too over boundaries (joking about their feelinngs when people feel under the weather, say offensive things)```
 
 ❄️ ```I really like to talk about what I really like OR hyperfixated on (I usually have a lot of useless small talk when I get really excited), Especially right now, I'd talk a lot about the Nordics/Sweden/Finland (NOT LIMITED TO APH ONLY)```
+
+<img src=""/>
