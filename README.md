@@ -54,4 +54,4 @@
 
 ❄️ ```I really like to talk about what I really like OR hyperfixated on (I usually have a lot of useless small talk when I get really excited), Especially right now, I'd talk a lot about the Nordics/Sweden/Finland (NOT LIMITED TO APH ONLY)```
 
-<img src=""/>
+<img src="https://cdn.discordapp.com/attachments/1480634457550622846/1480713198880423946/IMG_20260307_053220.jpg?ex=69b0ad20&is=69af5ba0&hm=229d9ff2a2067303ad92eefa75c920a3e788695b53175b0f9a14be172d45e4cd&"/>
