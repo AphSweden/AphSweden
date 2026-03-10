@@ -1,15 +1,17 @@
-## _```Hejsan alla.```_ ⁠｡⁠*ﾟ⁠+ ❄️
+## _Hejsan alla._ ⁠｡⁠*ﾟ⁠+ ❄️
 
-## ❗❗***MAINLY DNI: Shippers, proshippers, anything that are very problematic***
+## ❗❗***MAINLY DNI: Shippers, proshippers, anything that are very problematic in general***
+
+# ⋆✴︎˚｡⋆ 🕰️
 
 <img src="https://cdn.discordapp.com/attachments/1480634457550622846/1480661902546964500/1453c833bd1d1a4ba75660b112966af1.gif?ex=69b07d5a&is=69af2bda&hm=55ccdafa4ddde0ee888abd5fad2225ca4a8286dbd9408aaeb1cfc2d8a8ac6e9b&"/>
 
 # ⋆✴︎˚｡⋆ ⛄
 
-#### **FANDOMS: APH, GI, CRK, PJSK, DDLC**
+#### **🌎FANDOMS: APH, GI, CRK, PJSK, DDLC**
 ```(there are more but these are the mains, MAINLY APH right now)```
 
-#### **WHAT CHARACTERS I LIKE**
+#### **❤️WHAT CHARACTERS I LIKE**
 ```APH: Sweden and Finland (very hyperfixated for recent times)```
 
 ```CRK: Dark Cacao Cookie``` 
@@ -22,15 +24,15 @@
 
 # ⋆✴︎˚｡⋆ 🎄
 
-### ***WHAT TO TAKE NOTE WHEN INTERACTING WITH ME:***
+### ***⚠️WHAT TO TAKE NOTE WHEN INTERACTING WITH ME:***
 
 ## ***I AM A BIG SUFIN SHIPPER.***
 
 ```I also do like Dennor too. The reason why I don't want shippers to interact with me is because I generally have a lot of ships that I really dislike (E.g. Sweden and Finland gets shipped onto other Nordic characters, proships and so on), but I am also open with other ships in general like Gerita for reference.```
 
-## ***AGAIN, I DO NOT LIKE SUDEN, SUNOR, NORFIN AND DENFIN, OR ANY SHIPS OF THE NORDICS WITH ICELAND TOO. IF YOU SHIP ANY OF THESE, I RESPECT, BUT I WILL NOT HESITATE TO BLOCK.***
+## ***AGAIN, I DO NOT LIKE SUDEN, SUNOR, NORFIN AND DENFIN, OR ANY SHIPS OF THE NORDICS WITH ICELAND TOO. IF YOU SHIP ANY OF THESE, I RESPECT YOUR DECISION, BUT I WILL NOT HESITATE TO BLOCK.***
 
-#### ***Nordics  >SEA ≥ Allies > Other***
+#### ***Nordics > SEA ≥ Allies > Other***
 
 ```I also do have a thing for 2ps, I prefer 2pFinsu a lot more then 2pSufin and I also do like 2pSwe and 2pFin individually, 2pDennor is also appreciated too. Broships like 2pSuden and 2pSunor are also in the list.```
 
@@ -40,7 +42,7 @@
 
 # ⋆✴︎˚｡⋆ 🌨️
 
-### ***A LITTLE MORE ABOUT ME***
+### ***💬 LITTLE MORE ABOUT ME***
 
 #### ***MBTI: INFP-T***
 
@@ -54,4 +56,12 @@
 
 ❄️ ```I really like to talk about what I really like OR hyperfixated on (I usually have a lot of useless small talk when I get really excited), Especially right now, I'd talk a lot about the Nordics/Sweden/Finland (NOT LIMITED TO APH ONLY)```
 
+# ⋆✴︎˚｡⋆ 🖌️
+
 <img src="https://cdn.discordapp.com/attachments/1480634457550622846/1480713198880423946/IMG_20260307_053220.jpg?ex=69b0ad20&is=69af5ba0&hm=229d9ff2a2067303ad92eefa75c920a3e788695b53175b0f9a14be172d45e4cd&"/>
+
+# ⋆✴︎˚｡⋆ ✨
+
+# ***🫶TACK FÖR ATT DU LÄSTE***
+
+```Thank you for reading and scrolling down my introduction page on GitHub. The photo above is one of the Sufin I have drawn for everyone as a gift. I hope you have a great day/night ahead after reading!```
