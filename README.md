@@ -20,7 +20,7 @@
 
 ## 🇸🇪 🇫🇮 💌
 
-<img src="https://github.com/user-attachments/assets/ff031487-abad-4ad3-a1f5-2ea56fa91c8d"/>
+<img src="https://66.media.tumblr.com/0b598eefb8fb35f6adb154b2b2927340/tumblr_inline_p4h383t06M1uli3vd_540.gif"/>
 
 # ⋆✴︎˚｡⋆ 🎄
 
