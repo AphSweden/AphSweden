@@ -1,5 +1,7 @@
 ## _Hejsan alla._ ⁠｡⁠*ﾟ⁠+ ❄️
 
+<img src=""/>
+
 ## ❗❗***MAINLY DNI: Shippers, proshippers, anything that are very problematic in general***
 
 # ⋆✴︎˚｡⋆ 🕰️
@@ -65,3 +67,5 @@
 # ***🫶TACK FÖR ATT DU LÄSTE***
 
 ```Thank you for reading and scrolling down my introduction page on GitHub. The photo above is one of the Sufin I have drawn for everyone as a gift. I hope you have a great day/night ahead after reading!```
+
+<img src=""/>
