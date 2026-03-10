@@ -1,6 +1,4 @@
-## _Hejsan alla._ ⁠｡⁠*ﾟ⁠+ ❄️
-
-# . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. VÄLKOMMEN 👋
+## _Välkommen._ ⁠｡⁠*ﾟ⁠+ ❄️
 
 <img src="https://cdn.discordapp.com/attachments/1480634457550622846/1480755206630412288/Untitled256_20260310103000.png?ex=69b0d440&is=69af82c0&hm=d60f5ca5697df0595c0127676ecd8108723bba1a913114a3328ae62541266ed3&"/>
 
@@ -68,7 +66,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1480634457550622846/1480755197088239686/Untitled256_20260310103213.png?ex=69b0d43e&is=69af82be&hm=0e83850b90dcd2e20ce9f66f8dfdd4af74ad2c551bae95aaf73b9854b2a0bc89&"/>
 
-# ***🫶TACK FÖR ATT DU LÄSTE***
+# ***🫶THANK YOU FOR READING***
 
 ```Thank you for reading and scrolling down my introduction page on GitHub. The photo above is one of the Sufin I have drawn for everyone as a gift. I hope you have a great day/night ahead after reading!```
 
