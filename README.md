@@ -30,9 +30,9 @@
 
 ## ***I AM A BIG SUFIN SHIPPER.***
 
-```I also do like Dennor too. The reason why I don't want shippers to interact with me is because I generally have a lot of ships that I really dislike (E.g. Sweden and Finland gets shipped onto other Nordic characters, proships and so on), but I am also open with other ships in general like Gerita for reference.```
+```I also do like Dennor too. The reason why I don't want shippers to interact with me is because I generally have a lot of ships that I really dislike (proships/darkships/Suden,Sunor,Norfin,Denfin,etc.), but I am also open with other ships in general like Gerita for reference.```
 
-## ***AGAIN, I DO NOT LIKE SUDEN, SUNOR, NORFIN AND DENFIN, OR ANY SHIPS OF THE NORDICS WITH ICELAND TOO. IF YOU SHIP ANY OF THESE, I WILL NOT TOLERATE ANY OF THEM.***
+## ***AGAIN, I DO NOT LIKE SUDEN, SUNOR, NORFIN AND DENFIN, OR ANY SHIPS OF THE NORDICS WITH ICELAND TOO. IF YOU SHIP ANY OF THESE, I WILL NOT TOLERATE ANY OF THEM. BUT IF YOU DON'T COME UP TO ME JUST TO OFFEND ME WITH ANY OF THE LISTED SHIPS, YOU'RE STILL FINE TO INT WITH ME.***
 
 #### ***Nordics > SEA ≥ Allies > Other***
 
@@ -68,6 +68,6 @@
 
 # ***🫶THANK YOU FOR READING***
 
-```Thank you for reading and scrolling down my introduction page on GitHub. The photo above is one of the Sufin I have drawn for everyone as a gift. I hope you have a great day/night ahead after reading!```
+```Thank you for reading and scrolling down my introduction page on GitHub. The photo above is one of the Sufin I have drawn for everyone as a gift. I hope you have a great day/night ahead after reading.```
 
 
