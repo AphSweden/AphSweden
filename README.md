@@ -2,8 +2,6 @@
 
 <img src="https://cdn.discordapp.com/attachments/1480634457550622846/1480755206630412288/Untitled256_20260310103000.png?ex=69b0d440&is=69af82c0&hm=d60f5ca5697df0595c0127676ecd8108723bba1a913114a3328ae62541266ed3&"/>
 
-## ❗❗***MAINLY DNI: Shippers, proshippers, anything that are very problematic in general***
-
 # ⋆✴︎˚｡⋆ 🕰️ . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 
 <img src="https://cdn.discordapp.com/attachments/1480634457550622846/1480661902546964500/1453c833bd1d1a4ba75660b112966af1.gif?ex=69b07d5a&is=69af2bda&hm=55ccdafa4ddde0ee888abd5fad2225ca4a8286dbd9408aaeb1cfc2d8a8ac6e9b&"/>
