@@ -1,2 +1,4 @@
-<img src="https://files.catbox.moe/1l0csl.png"/>
+<img src="https://files.catbox.moe/osf2fv.gif"/>
+
+          Jag älskar min vänner.
 
