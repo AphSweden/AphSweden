@@ -4,4 +4,4 @@
   <h2>$$\textcolor{#3d4a75}{\textit{Välkommen.}}$$ </h2>
 
   <div align="center">
-  <p> $\textcolor{#c7baaa}{\textit{This is for ponytown}} \textcolor{#943131}{\textit{ ONLY.}}$</p> 
+  <p> $\textcolor{#c7baaa}{\textbf{This is for ponytown}} \textcolor{#943131}{\textbf{ ONLY.}}$</p> 
