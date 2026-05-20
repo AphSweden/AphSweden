@@ -1,7 +1,7 @@
 <img src="https://files.catbox.moe/vdd2po.webp" class="center">
 
 <div align="center">
-  <h2>$$\textcolor{#c7baaa}{\text{Välkommen.}}$$ </h2>
+  <h2>$$\textcolor{#3d4a75}{\textit{Välkommen.}}$$ </h2>
 
   <div align="center">
-  <p> $\textcolor{#9f8668}{\text{This is for ponytown}} \textcolor{#943131}{\text{ ONLY.}}$</p> 
+  <p> $\textcolor{#c7baaa}{\textit{This is for ponytown}} \textcolor{#943131}{\textiy{ ONLY.}}$</p> 
