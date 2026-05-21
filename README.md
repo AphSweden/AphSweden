@@ -68,5 +68,5 @@
        </td>
   </tr>
   <p align="center">
-  <img src="https://media.discordapp.net/attachments/1480634457550622846/1506890555416645712/Untitled393_20260521114848.png?ex=6a0fe8b1&is=6a0e9731&hm=ac5ac065bf3af71296ea7a96822a03ee981417a07585a6774b6688eff7015985&=&format=webp&quality=lossless" width="400" alt="Banner">
+  <img src="https://media.discordapp.net/attachments/1480634457550622846/1506890555416645712/Untitled393_20260521114848.png?ex=6a0fe8b1&is=6a0e9731&hm=ac5ac065bf3af71296ea7a96822a03ee981417a07585a6774b6688eff7015985&=&format=webp&quality=lossless" width="200" alt="Banner">
 </p>
