@@ -5,8 +5,6 @@
 
   <div align="center">
   <p> $\textcolor{#c7baaa}{\text{\it This is for ponytown}} \textcolor{#943131}{\text{\it  ONLY.}}$</p> 
-<br>
-    <br>
   <tr>
     <td align="left" width="33%">
       <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="left">
