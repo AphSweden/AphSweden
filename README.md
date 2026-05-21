@@ -1,10 +1,10 @@
 <img src="https://files.catbox.moe/vdd2po.webp" class="center">
 
 <div align="center">
-  <h1>$$\textcolor{#c7baaa}{\boldsymbol{\text{Välkommen.}}}$$ </h1>
+  <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{Välkommen.}}}$$ </p>
 
   <div align="center">
-  <h2> $\textcolor{#c7baaa}{\text{\it This is for ponytown}} \textcolor{#943131}{\text{\it  ONLY.}}$</h2> 
+  <p> $\textcolor{#c7baaa}{\text{\it This is for ponytown}} \textcolor{#943131}{\text{\it  ONLY.}}$</p> 
 <br>
     <br>
   <tr>
