@@ -51,7 +51,7 @@
 <div align="center">
   <a href="https://sverigefisk.straw.page">Straw</a>
   <img src="https://files.catbox.moe/1uf0rk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
-  <a href="https://swedenfish.atabook.org/">ATA</a>
+  <a href="https://swedishfish.atabook.org/">ATA</a>
 </div>
    <br>
   <tr>
