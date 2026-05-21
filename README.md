@@ -1,7 +1,7 @@
 <img src="https://files.catbox.moe/vdd2po.webp" class="center">
 
 <div align="center">
-  <h2>$$\textcolor{#3d4a75}{\text{\it Välkommen.}}$$ </h2>
+  <h2>$$\textcolor{#3d4a75}{\mathit{\text{Välkommen.}}}$$ </h2>
 
   <div align="center">
-  <p> $\textcolor{#c7baaa}{\text{\it This is for ponytown}} \textcolor{#943131}{\text{\it ONLY.}}$</p> 
+  <p> $\textcolor{#c7baaa}{\text{\it This is for ponytown}} \textcolor{#943131}{\text{\it  ONLY.}}$</p> 
