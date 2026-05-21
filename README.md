@@ -73,4 +73,7 @@
 </p>
  <div align="center">
    <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{sons}}}$$</p>
+     <p align="center">
+  <img src="https://files.catbox.moe/5evq4x.webp">
+</p>
   
