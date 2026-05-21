@@ -55,7 +55,7 @@
 </div>
    <br>
    <div align="center">
-   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{Come draw on my straw, or write something in my ATA.}}}$$</p>
+   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{Come draw in my straw, or write something in my ATA.}}}$$</p>
   <tr>
     <td align="left" width="33%">
       <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="left">
@@ -67,3 +67,6 @@
     <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="right">
        </td>
   </tr>
+  <p align="center">
+  <img src="https://media.discordapp.net/attachments/1480634457550622846/1506890555416645712/Untitled393_20260521114848.png?ex=6a0fe8b1&is=6a0e9731&hm=ac5ac065bf3af71296ea7a96822a03ee981417a07585a6774b6688eff7015985&=&format=webp&quality=lossless" width="400" alt="Banner">
+</p>
