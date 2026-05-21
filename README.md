@@ -23,7 +23,7 @@
    <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{I only post arts on these two social medias.}}}$$</p>
 <div align="center">
   <a href="https://www.instagram.com/7unae0_?igsh=YWY2dHRhYzBtM3Nq">Instagram</a>
-  <img src="https://files.catbox.moe/1uf0rk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
+  <img src="https://files.catbox.moe/30mxmk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
   <a href="https://xhslink.com/m/2cOyEj1MKJ7">Rednote</a>
 </div>
 <br>
@@ -33,7 +33,7 @@
       <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="left">
     </td>
     <td align="center" width="34%">
-    <img src="https://files.catbox.moe/1uf0rk.webp" width="75" alt="middle">
+    <img src="https://files.catbox.moe/30mxmk.webp" width="75" alt="middle">
     </td>
        <td align="right" width="33%">
     <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="right">
@@ -50,7 +50,7 @@
 </p>
 <div align="center">
   <a href="https://sverigefisk.straw.page">Straw</a>
-  <img src="https://files.catbox.moe/1uf0rk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
+  <img src="https://files.catbox.moe/30mxmk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
   <a href="https://swedishfish.atabook.org/">ATA</a>
 </div>
    <br>
