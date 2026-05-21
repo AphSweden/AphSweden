@@ -33,7 +33,7 @@
       <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="left">
     </td>
     <td align="center" width="34%">
-    <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="middle">
+    <img src="https://files.catbox.moe/1uf0rk.webp" width="75" alt="middle">
     </td>
        <td align="right" width="33%">
     <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="right">
