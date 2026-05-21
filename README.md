@@ -54,6 +54,8 @@
   <a href="https://swedishfish.atabook.org/">ATA</a>
 </div>
    <br>
+   <div align="center">
+   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{Come draw on my straw, or write something in my ATA.}}}$$</p>
   <tr>
     <td align="left" width="33%">
       <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="left">
