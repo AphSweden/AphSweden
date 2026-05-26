@@ -22,9 +22,9 @@
  <div align="center">
    <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{I only post arts on these two social medias.}}}$$</p>
 <div align="center">
-  <a href="https://www.instagram.com/7unae0_?igsh=YWY2dHRhYzBtM3Nq">Instagram</a>
+  <a href="https://www.instagram.com/7unae0_?igsh=YWY2dHRhYzBtM3Nq">ɪɴꜱᴛᴀɢʀᴀᴍ</a>
   <img src="https://files.catbox.moe/30mxmk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
-  <a href="https://xhslink.com/m/2cOyEj1MKJ7">Rednote</a>
+  <a href="https://xhslink.com/m/2cOyEj1MKJ7">ʀᴇᴅɴᴏᴛᴇ</a>
 </div>
 <br>
 <br>
@@ -49,13 +49,13 @@
   <img src="https://flagcdn.com/h24/is.png" height="24" alt="Iceland">
 </p>
 <div align="center">
-  <a href="https://sverigefisk.straw.page">Straw</a>
+  <a href="https://sverigefisk.straw.page">ꜱᴛʀᴀᴡᴘᴀɢᴇ/a>
   <img src="https://files.catbox.moe/30mxmk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
-  <a href="https://swedishfish.atabook.org/">ATA</a>
+  <a href="https://swedishfish.atabook.org/">ᴀᴛᴀ</a>
 </div>
    <br>
    <div align="center">
-   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{Come draw or write something, alright?}}}$$</p>
+   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{𝐂𝐨𝐦𝐞 𝐝𝐫𝐚𝐰 𝐨𝐫 𝐰𝐫𝐢𝐭𝐞 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠, 𝐚𝐥𝐫𝐢𝐠𝐡𝐭?}}}$$</p>
   <tr>
     <td align="left" width="33%">
       <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="left">
