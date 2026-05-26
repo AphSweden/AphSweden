@@ -49,7 +49,7 @@
   <img src="https://flagcdn.com/h24/is.png" height="24" alt="Iceland">
 </p>
 <div align="center">
-  <a href="https://sverigefisk.straw.page">ꜱᴛʀᴀᴡᴘᴀɢᴇ/a>
+  <a href="https://sverigefisk.straw.page">ꜱᴛʀᴀᴡᴘᴀɢᴇ</a>
   <img src="https://files.catbox.moe/30mxmk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
   <a href="https://swedishfish.atabook.org/">ᴀᴛᴀ</a>
 </div>
