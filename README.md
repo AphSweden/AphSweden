@@ -1,10 +1,10 @@
 <img src="https://files.catbox.moe/vdd2po.webp" class="center">
 
 <div align="center">
-  <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{Välkommen.}}}$$ </p>
+  <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{𝗩ä𝗹𝗸𝗼𝗺𝗺𝗲𝗻.}}}$$ </p>
 
   <div align="center">
-  <p> $\textcolor{#c7baaa}{\text{\it This is for ponytown}} \textcolor{#943131}{\text{\it  ONLY.}}$</p> 
+  <p> $\textcolor{#c7baaa}{\text{𝐓𝐡𝐢𝐬 𝐢𝐬 𝐟𝐨𝐫 𝐩𝐨𝐧𝐲𝐭𝐨𝐰𝐧}} \textcolor{#943131}{\text{ 𝐎𝐍𝐋𝐘.}}$</p> 
   <tr>
     <td align="left" width="33%">
       <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="left">
@@ -20,7 +20,7 @@
 <br>
 
  <div align="center">
-   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{I only post arts on these two social medias.}}}$$</p>
+   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{𝐈 𝐨𝐧𝐥𝐲 𝐩𝐨𝐬𝐭 𝐚𝐫𝐭𝐬 𝐨𝐧 𝐭𝐡𝐞𝐬𝐞 𝐭𝐰𝐨 𝐬𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚𝐬.}}}$$</p>
 <div align="center">
   <a href="https://www.instagram.com/7unae0_?igsh=YWY2dHRhYzBtM3Nq">ɪɴꜱᴛᴀɢʀᴀᴍ</a>
   <img src="https://files.catbox.moe/30mxmk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
