@@ -55,7 +55,7 @@
 </div>
    <br>
    <div align="center">
-   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{𝐂𝐨𝐦𝐞 𝐝𝐫𝐚𝐰 𝐨𝐫 𝐰𝐫𝐢𝐭𝐞 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠, 𝐚𝐥𝐫𝐢𝐠𝐡𝐭?}}}$$</p>
+   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{𝐂𝐨𝐦𝐞 𝐬𝐢𝐠𝐧 𝐚𝐧𝐲 𝐨𝐟 𝐭𝐡𝐞𝐬𝐞 𝐭𝐰𝐨}}}$$</p>
   <tr>
     <td align="left" width="33%">
       <img src="https://files.catbox.moe/ic3yux.webp" width="100" alt="left">
