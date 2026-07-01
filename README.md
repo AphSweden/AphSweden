@@ -1,3 +1,5 @@
+## Please note that this is my only official account along with aph-finland. I do not use alternative or "backup" profiles. If any account claiming to be me sends you a message, uses slurs, or acts suspiciously, please do not reply. Block and report them immediately.
+
 <img src="https://files.catbox.moe/vdd2po.webp" class="center">
 
 <div align="center">
