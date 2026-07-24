@@ -1,5 +1,3 @@
-## Please note that this is my only official account along with aph-finland. I do not use alternative or "backup" profiles. If any account claiming to be me sends you a message, uses slurs, or acts suspiciously, please do not reply and check if it is me. If not, block and report them immediately.
-
 <img src="https://files.catbox.moe/vdd2po.webp" class="center">
 
 <div align="center">
@@ -53,7 +51,7 @@
 <div align="center">
   <a href="https://sverigefisk.straw.page">ꜱᴛʀᴀᴡ</a>
   <img src="https://files.catbox.moe/30mxmk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
-  <a href="https://swedishfish.atabook.org/">ᴀᴛᴀ</a>
+  <a href="https://sweden.atabook.org/">ᴀᴛᴀ</a>
 </div>
    <br>
    <div align="center">
@@ -79,3 +77,4 @@
   <img src="https://files.catbox.moe/5evq4x.webp">
 </p>
   
+## Please note that this is my only official account along with aph-finland. I do not use alternative or "backup" profiles. If any account claiming to be me sends you a message, uses slurs, or acts suspiciously, please do not reply and check if it is me. If not, block and report them immediately.
