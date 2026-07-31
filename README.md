@@ -68,11 +68,11 @@
        </td>
   </tr>
 
-  <p align="center">
-  <img src="https://files.catbox.moe/ted6wt.webp" width="150">
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=5chruohmz446959mykt23bwhe&cover_image=true&theme=novatorem&show_offline=false&background_color=14448c&interchange=false&profanity=false&hide_remaster=true&bar_color=e7e0D3&bar_color_cover=false">
+  </a>
 </p>
- <div align="center">
-   <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{sons}}}$$</p>
-     <p align="center">
+</p>
   <img src="https://files.catbox.moe/5evq4x.webp">
 </p>
