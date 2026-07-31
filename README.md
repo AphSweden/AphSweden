@@ -22,9 +22,9 @@
  <div align="center">
    <p>$$\textcolor{#c7baaa}{\boldsymbol{\text{𝐈 𝐨𝐧𝐥𝐲 𝐩𝐨𝐬𝐭 𝐚𝐫𝐭𝐬 𝐨𝐧 𝐭𝐡𝐞𝐬𝐞 𝐭𝐰𝐨 𝐬𝐨𝐜𝐢𝐚𝐥 𝐦𝐞𝐝𝐢𝐚𝐬.}}}$$</p>
 <div align="center">
-  <a href="-">ɪɴꜱᴛᴀɢʀᴀᴍ</a>
+  <a href="https://www.instagram.com/7unae0_?igsh=YWY2dHRhYzBtM3Nq">ɪɴꜱᴛᴀɢʀᴀᴍ</a>
   <img src="https://files.catbox.moe/30mxmk.webp" height="20" style="margin: 0 5px; vertical-align: -4px;" alt="ribbon">
-  <a href="-">ʀᴇᴅɴᴏᴛᴇ</a>
+  <a href="https://xhslink.com/m/nmvo3K0ujL">ʀᴇᴅɴᴏᴛᴇ</a>
 </div>
 <br>
 <br>
